@@ -1,0 +1,40 @@
+h1, h2 {
+    color: #d74475;
+}
+.buttons {
+    margin-top: 10px;
+}
+.buttons a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 15px;
+    background-color: #034141;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.section {
+    margin-bottom: 30px;
+}
+.section h2 {
+    border-bottom: 2px solid #034141;
+    padding-bottom: 5px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+table, th, td {
+    border: 1px solid #aaa;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+.certificates img {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}
